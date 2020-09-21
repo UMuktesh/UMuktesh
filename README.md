@@ -24,6 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UMuktesh&show_icons=true&hide=stars" alt="UMuktesh" /></p>
 
+<br />
+
 <p align="right">
 <a href="https://www.linkedin.com/in/muktesharyan-uppala-b763841b0/" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="python" width="100" height="100"/></a>
 </p>
