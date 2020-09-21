@@ -6,6 +6,7 @@
 🌱 *Currently learning*: Django
 
 - 📫 How to reach me [**muktesharyan@gmail.com**](mailto:muktesharyan@gmail.com)
+- <a href="https://www.linkedin.com/in/muktesharyan-uppala-b763841b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktesharyan-uppala-b763841b0" height="30" width="30" /></a></a>
 
 <h2> ⚡ Technologies</h2>
 
@@ -14,10 +15,6 @@
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMuktesh&layout=compact" alt="UMuktesh" /></div>
 
 <div>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=UMuktesh&show_icons=true&hide=stars" alt="UMuktesh" /></div>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/muktesharyan-uppala-b763841b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muktesharyan-uppala-b763841b0" height="30" width="30" /></a></a>
-</p>
 
 <!--
 **UMuktesh/UMuktesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
